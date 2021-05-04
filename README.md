@@ -25,7 +25,7 @@ time, arrival time and airways over a specific period. Features are extracted
 from the collected data to apply Machine Learning models.
 
 After we have the data, we need to clean and prepare the data according to the 
-model's requirements. This will be the most important and the most timeconsuming step and will be achieved through various statistical techniques and 
+model's requirements. This will be the most important and the most time-consuming step and will be achieved through various statistical techniques and 
 logics. This preparation of data will be followed by analysing the data, 
 uncovering the hidden trends and then applying various predictive and
 classification models on the training set. After this we will have to test the 
